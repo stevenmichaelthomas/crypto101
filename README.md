@@ -45,6 +45,15 @@ There is a small group of coins that are already moving out of Altcoin territory
 * Monero
 * IOTA
 
+## Transferring fiat money into Cryptocurrency
+This was surprisingly the hardest part about getting into Crypto. Several exchanges provide an option to wire transfer, but I was hesitant to wire transfer to banks in random countries that I didn't know a lot about.
+
+The best option for me ended up being Coinbase. In the US it's easy to transfer funds from a bank account, and in Canada you can hook up any major credit card. The only drag is that with a credit card there's a $250 per week deposit limit, so you'll need to build up a balance over a little while.
+
+Once you've deposited to Coinbase, you can send your coins anywhere you want.
+
+To withdrawal to fiat money, find an exchange that will transfer to your currency. Most will do EUR and USD, Kraken was the best one I found for CAD.
+
 ## Example flows
 
 ### Basic trading flow
