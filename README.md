@@ -18,7 +18,7 @@ Most of the Altcoins we'll be trading are built using Ethereum.
 If you're storing a coin, i.e. not actively trading it for other things, it lives in a wallet. A wallet typically has two addresses:
 
 1. Public address that you can use to send money to the wallet, and view previous transactions.
-2. A private key that you use to access your wallet and send money other places (to buy other coins, send to exchanges etc.)
+2. A private key that you use to access your wallet and send money other places (to buy other coins, send to exchanges etc.). You need to store this in an extremely secure place. If someone has this they can take all of your coins and you have no way of getting them back.
 
 ### Exchanges
 When you want to buy/sell coins, you need to move them from wallets to an exchange. There are lots of different exchanges that let you trade lots of different coins, but typically the main exchange we'd use is Bittrex.com - it's one of the larger, more trustworthy exchanges.
