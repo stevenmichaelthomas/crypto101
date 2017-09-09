@@ -30,6 +30,27 @@ ICOs are currently the best way to make money with cryptocurrency I think. ICOs 
 
 i.e. if a new coin called DNT is listing, and we participate in the ICO by sending 1 ETH to the specified ETH wallet address, you may get say... 10 DNT in exchange. This would mean every DNT is worth 0.1 ETH. It usually takes a few weeks after an ICO for the coin to start showing up on major exchanges, and at this point prices typically will rise to reflect demand. Once it lists on an exchange people may be willing to pay 0.4 ETH for the coin, meaning that you can sell the coin for a 400% profit. Maybe they're only willing to pay 0.05 ETH though, but currently joining and ICO is a pretty good way to guarantee some growth.
 
+#### Increases in value post-ICO
+
+Typically when an ICO finishes, the new coin will become available on some very small exchanges, usually Etherdelta. If you are in a hurry to sell, you can do this, but it is typically better to wait for the coin to list on a larger exchange.
+
+Here's a breakdown of some of the more common exchanges:
+
+*Small:*
+Etherdelta
+
+*Medium:*
+Liqui
+Binance
+
+*Large:*
+Bittrex
+Polinex
+Kraken
+
+You can think of the large exchanges as something like the New York Stock Exchange. Once it lists here it's considered something that probably won't go away soon.
+
+
 ### Upcoming ICOs
 Obvs no guarantee about success of these, but I'm currently looking at the following upcoming ICOs:
 
