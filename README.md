@@ -42,6 +42,7 @@ Etherdelta
 *Medium:*
 Liqui
 Binance
+Cryptopia
 
 *Large:*
 Bittrex
@@ -51,15 +52,11 @@ Kraken
 You can think of the large exchanges as something like the New York Stock Exchange. Once it lists here it's considered something that probably won't go away soon.
 
 
-### Upcoming ICOs
+### Upcoming ICOs / new coins
 Obvs no guarantee about success of these, but I'm currently looking at the following upcoming ICOs:
 
-* Modum
-* HelloGold
-* Monetha
-* Redpulse
-* Bankera
-* Kyber
+* https://account.wacoin.io
+* Confido
 
 ## Community
 To learn where to invest, what people are excited about, upcoming ICOs, etc, there are lots of different communities you can get involved with.
@@ -68,13 +65,11 @@ CryptoCapital LLC Telegram group - Best advice I've seen. Has both public and pr
 
 reddit.com/r/cryptocurrency - lots of noise, but can be indicative of market sentiment
 
-## Second tier Altcoins
+## Mid-cap Altcoins
 There is a small group of coins that are already moving out of Altcoin territory. They are interesting ones to watch, especially in Asian markets. They are great ones to read about to learn about potential use cases and things that are pushing the boundaries of what Cryptocurrency can be used for.
 
 * NEO
-* OMG
-* Monero
-* IOTA
+* WTC
 
 ## Transferring between fiat money and Cryptocurrency
 This was surprisingly the hardest part about getting into Crypto. Several exchanges provide an option to wire transfer, but I was hesitant to wire transfer to banks in random countries that I didn't know a lot about.
