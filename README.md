@@ -89,6 +89,8 @@ Some options for funding with fiat money are:
 
 The best option for me ended up being Coinbase since I could hook up any major credit card and start purchasing coins in a matter of minutes. The benifit wass that verification was quick and easy, but the drawback is that there's a $250/week deposit limit. The other options require a longer process of verification, but allow you to fund higher amounts at a time.
 
+Thankfully, Coinbase can increase your limit to $1,000 per week via credit card, which is more sufficient. 
+
 Once you've deposited funds and exchanged them to one of the main coins, you can send them anywhere you want.
 
 ### Withdrawing
